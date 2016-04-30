@@ -1,3 +1,5 @@
+Slack bot to greet new user joining a team, making used of SlackClient.
+
 To deploy this Slack bot, you will need to set up a python environment.
 
 With the assumption that you already have a python environment, you'll need to:
